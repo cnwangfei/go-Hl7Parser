@@ -2,7 +2,7 @@ package golevel7
 
 import (
 	"bufio"
-	"golevel7/commons"
+	"github.com/cnwangfei/go-Hl7Parser/commons"
 	"io"
 )
 

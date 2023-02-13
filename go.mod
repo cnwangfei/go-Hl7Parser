@@ -1,4 +1,4 @@
-module golevel7
+module github.com/cnwangfei/go-Hl7Parser
 
 go 1.12
 
